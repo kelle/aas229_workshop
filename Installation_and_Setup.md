@@ -1,5 +1,3 @@
-This will be an interactive workshop so be sure to come with a laptop prepared to try out some of the tools that will be discussed and demonstrated.
-
 ### If you installed weeks ago, several of the packages have updated releases. 
 
 You can update all the software in your environment using:
@@ -11,21 +9,7 @@ You can also update individual packages with conda update, these are the two pac
     % conda update -c http://ssb.stsci.edu/astroconda stginga
     % conda update -c http://ssb.stsci.edu/astroconda imexam
 
-If you have any problem with the instructions here, please open an issue at https://github.com/spacetelescope/aas229_workshop/issues/
-
-# 1. Clone This Repository
-
-First, download this repository by either doing:
-
-    % git clone http://github.com/spacetelescope/aas229_workshop.git
-
-or by downloading and then expanding the repository file. Github allows for downloading a ZIP file, click on the green "Clone or Download" button on the front page and select zip file. Save the zip file to a reasonable directory and unpack it. 
-
-Then, cd into the aas229_workshop directory.
-
 # 2. Install Anaconda, AstroConda
-
-Note: please do this ahead of the workshop if possible.
 
 ## 2a. Getting Anaconda Anaconda
 
@@ -41,7 +25,7 @@ You do not need to install the entire AstroConda package, if you only wish to in
 
 You will need to download Anaconda separately (https://www.continuum.io/downloads). Then, proceed to Step 2b.
 
-## 2b. Create an  Anaconda environment for the workshop
+## 2b. Create an  Anaconda environment for this course.
 
 If you have Anaconda already installed you can skip 2a and go straight on to this step.
 
